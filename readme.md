@@ -1,6 +1,6 @@
 #### ***Enhancing Korean Elderly Speech Recognition using Transfer Learning, CNN***
 ---
-#데이터 전처리, 전이학습, 그리고 CNN을 통한 노인 음성인식률의 향상 방안
+# 데이터 전처리, 전이학습, 그리고 CNN을 통한 노인 음성인식률의 향상 방안
 
 ## 문제의식
 1. 노인들의 디지털 소외는 이동권과 같은 기본권에도 영향을 미칠 수 있음.
